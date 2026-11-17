@@ -1,0 +1,13 @@
+LINK AKUN — Tugas Komputasi Numerik
+Nama : Ahnaf Zaiyan Firdaus
+NIM  : 202531420003
+
+1. GitHub
+   Profil     : https://github.com/AhnafUI
+   Repository : https://github.com/AhnafUI/Komputasi-Numerik
+
+2. Google Colab (Google Colaboratory)
+   Notebook   : https://colab.research.google.com/drive/1Zz8QXrGiWodjMk5fXw8InOYRAci-YhI6
+
+3. LinkedIn
+   Profil     : https://www.linkedin.com/in/ahnaf-zaiyan-firdaus-14a240450/
